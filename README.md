@@ -2,6 +2,8 @@
 
 Presented at [MacDevOps YVR 2021](https://mdoyvr.com/)
 
+![](./img/Making_SimpleMDM_Complicated.gif)
+
 ## Content
 
 ### Presentation
