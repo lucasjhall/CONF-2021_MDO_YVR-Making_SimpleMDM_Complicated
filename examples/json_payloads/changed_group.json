@@ -1,0 +1,20 @@
+{
+    "type": "device.changed_group",
+    "at": "2020-11-11T11:11:11.000+00:00",
+    "data": {
+      "devices": [
+        {
+          "id": 316796,
+          "udid": "bdf5a63e73cc802805d674000ac095f88ee23cd2",
+          "serial_number": "000000000000",
+          "device_group_id": 12345
+        },
+        {
+          "id": 370271,
+          "udid": "dbf5a63e73bb802805d674000ac095f88ee23cd2",
+          "serial_number": "000000000000",
+          "device_group_id": 12346
+        }
+      ]
+    }
+  }
