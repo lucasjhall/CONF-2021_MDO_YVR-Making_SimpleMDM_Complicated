@@ -19,6 +19,8 @@ Presented at [MacDevOps YVR 2021](https://mdoyvr.com/)
 
 ## Resources
 
-[SimpleMDM](https://simplemdm.com/)
-[SimpleMDMpy](https://github.com/macadmins/simpleMDMpy)
+- [SimpleMDM](https://simplemdm.com/)
+- [SimpleMDMpy](https://github.com/macadmins/simpleMDMpy)
 [A ramble on event driven client management](https://lucasjhall.github.io/2021/05/18/event-driven-client-management.html)
+- [#simplemdm](https://macadmins.slack.com/archives/C4HJ6U742) on Macadmins Slack
+-  Device Management [Documentation](https://developer.apple.com/documentation/devicemanagement)
